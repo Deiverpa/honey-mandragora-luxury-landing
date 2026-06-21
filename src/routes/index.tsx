@@ -389,7 +389,7 @@ function Landing() {
           <div className="grid gap-12 md:grid-cols-4">
             <div className="md:col-span-2">
               <div className="flex items-center gap-3">
-                <span className="grid h-9 w-9 place-items-center rounded-full border border-[color:var(--gold)]/40 text-gold text-sm font-display italic">
+                <span className="grid h-9 w-9 place-items-center rounded-full border border-[color:var(--brand-green)] text-gold text-sm font-display italic">
                   M
                 </span>
                 <span className="font-display text-lg tracking-wide">
