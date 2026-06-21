@@ -412,7 +412,7 @@ function Landing() {
        Haz que tus momentos especiales tengan una historia dulce para recordar. En Miel y Mandrágora preparamos postres artesanales para cumpleaños, reuniones familiares, eventos empresariales y mesas dulces. Te ayudamos a armar una propuesta según el tipo de evento, la cantidad de invitados y los sabores que más se ajusten a tu ocasión. 
        <br /> Porque toda celebración merece un postre que se quede en la memoria.</p>
               <button
-                onClick={"window.location.href='#'"}
+                // onClick={"window.location.href='#'"}
                 className="group mt-6 inline-flex w-full items-center justify-center gap-3 rounded-full bg-gradient-gold px-8 py-4 text-sm font-medium uppercase tracking-[0.25em] text-[color:var(--ink)] shadow-gold transition-transform duration-500 hover:scale-[1.02]"
               >
                 <Phone className="h-4 w-4" />
