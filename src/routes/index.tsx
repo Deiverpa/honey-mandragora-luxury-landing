@@ -78,7 +78,7 @@ function Landing() {
       <header className="absolute top-0 left-0 right-0 z-30">
         <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6 md:py-8">
           <a href="#" className="flex items-center gap-3 group">
-            <span className="grid h-9 w-9 place-items-center rounded-full border border-[color:var(--gold)]/40 text-gold text-sm font-display italic transition-colors group-hover:bg-[color:var(--gold)]/10">
+            <span className="grid h-9 w-9 place-items-center rounded-full border border-[color:var(--brand-green)] text-gold text-sm font-display italic transition-colors group-hover:bg-[color:var(--brand-green)]">
               M
             </span>
             <span className="font-display text-lg tracking-wide">
@@ -389,7 +389,7 @@ function Landing() {
           <div className="grid gap-12 md:grid-cols-4">
             <div className="md:col-span-2">
               <div className="flex items-center gap-3">
-                <span className="grid h-9 w-9 place-items-center rounded-full border border-[color:var(--gold)]/40 text-gold text-sm font-display italic">
+                <span className="grid h-9 w-9 place-items-center rounded-full border border-[color:var(--brand-green)] text-gold text-sm font-display italic">
                   M
                 </span>
                 <span className="font-display text-lg tracking-wide">
