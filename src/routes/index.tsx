@@ -32,13 +32,13 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Cheesecakes artesanales premium elaborados con miel pura, ingredientes naturales y origen local. Pide en línea con pago seguro.",
+          "Cheesecakes artesanales con alma. Pide en línea con pago seguro.",
       },
       { property: "og:title", content: "Miel y Mandrágora · Cheesecakes artesanales con alma" },
       {
         property: "og:description",
         content:
-          "Pastelería premium de cheesecakes artesanales. Miel pura, frutas de temporada y flores comestibles.",
+          "Repostería premium de cheesecakes artesanales.",
       },
       { property: "og:image", content: heroImg },
       { name: "twitter:image", content: heroImg },
